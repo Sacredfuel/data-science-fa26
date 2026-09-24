@@ -5,11 +5,11 @@ chapters:
   title: Syllabus
 # - file: notebooks/classwork
 #   title: Classwork
-# - file: notebooks/assignments
-#   title: Programs
-#   sections:
-#   - file: notebooks/assignment1
-#     title: Program 1
+- file: notebooks/assignments
+  title: Programs
+  sections:
+  - file: notebooks/assignment1
+    title: Program 1
   # - file: notebooks/assignment2
   #   title: Program 2
   # - file: notebooks/assignment3
@@ -33,8 +33,8 @@ chapters:
     title: Lecture 6
   - file: lectures/lecture7
     title: Lecture 7
-  # - file: lectures/lecture8
-  #   title: Lecture 8
+  - file: lectures/lecture8
+    title: Lecture 8
   # - file: lectures/lecture9
   #   title: Lecture 9
   # - file: lectures/lectureSP
