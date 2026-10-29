@@ -45,10 +45,10 @@ chapters:
     title: Lecture 11
   - file: lectures/lecture12
     title: Lecture 12
-  # - file: lectures/lecture13
-  #   title: Lecture 13
-  # - file: lectures/lecture14
-  #   title: Lecture 14
+  - file: lectures/lecture13
+    title: Lecture 13
+  - file: lectures/lecture14
+    title: Lecture 14
   # - file: lectures/lecture15
   #   title: Lecture 15
   # - file: lectures/lecture16
