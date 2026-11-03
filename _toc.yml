@@ -49,8 +49,8 @@ chapters:
     title: Lecture 13
   - file: lectures/lecture14
     title: Lecture 14
-  # - file: lectures/lecture15
-  #   title: Lecture 15
+  - file: lectures/lecture15
+    title: Lecture 15
   # - file: lectures/lecture16
   #   title: Lecture 16
   # - file: lectures/lecture17
