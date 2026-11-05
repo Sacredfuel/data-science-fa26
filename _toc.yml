@@ -51,8 +51,8 @@ chapters:
     title: Lecture 14
   - file: lectures/lecture15
     title: Lecture 15
-  # - file: lectures/lecture16
-  #   title: Lecture 16
+  - file: lectures/lecture16
+    title: Lecture 16
   # - file: lectures/lecture17
   #   title: Lecture 17
   # - url: https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing
