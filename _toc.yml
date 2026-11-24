@@ -59,6 +59,8 @@ chapters:
     title: Lecture 18
   - file: lectures/lecture19
     title: Lecture 19
+  - file: lectures/lecture20
+    title: Lecture 20
   # - url: https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing
   #   title: Lecture 18
   # - file: lectures/lecture19
@@ -78,7 +80,7 @@ chapters:
   #   title: Program 5
   # - file: notebooks/assignment6
   #   title: Program 6 (optional)
-- file: notebooks/project
+- file: notebooks/project2
   title: Project
 # - file: notebooks/final_exam
 #   title: Final Exam Review
